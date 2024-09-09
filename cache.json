@@ -1,0 +1,30 @@
+{
+    "hashes": {
+        "checkpoint/model.ckpt": {
+            "mtime": 1705510922.746308,
+            "sha256": "cc6cb27103417325ff94f52b7a5d2dde45a7515b25c255d8e396c90014281516"
+        }
+    },
+    "extensions-git": {
+        "sd-webui-reactor": {
+            "mtime": 1705595304.2294824,
+            "value": {
+                "remote": "https://github.com/Gourieff/sd-webui-reactor",
+                "commit_date": 1705387820,
+                "branch": "main",
+                "commit_hash": "472c75ee880097209a97168d33ceaba6035eaddc",
+                "version": "472c75ee"
+            }
+        },
+        "sd-webui-mov2mov": {
+            "mtime": 1705683216.4531581,
+            "value": {
+                "remote": "https://github.com/Scholar01/sd-webui-mov2mov.git",
+                "commit_date": 1699153919,
+                "branch": "master",
+                "commit_hash": "e4e96e7836159b5a58794a1bdf0acce31b9b1271",
+                "version": "e4e96e78"
+            }
+        }
+    }
+}
